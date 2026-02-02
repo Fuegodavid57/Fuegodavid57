@@ -7,12 +7,6 @@ I specialize in C++ and C# for gameplay systems, Unreal Engine & Unity, and pipe
 I'm passionate about building games, creating efficient tools, and learning advanced production workflows.  
 Currently focused on a long-term Unreal Engine project integrating multiple in-editor tools and complex gameplay systems. 
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Indeed](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-
-
 ## Other information
 👩‍💻 I'm currently working on  
 A long-term academic game project as part of my 3rd year at Objectif3D, focused on advanced Unreal Engine workflows and integrated production tools.
@@ -44,4 +38,10 @@ GitHub issues, project discussions, or LinkedIn.
 | ![XAML](https://img.shields.io/badge/XAML-0C54C2?logo=windows&logoColor=white) | UI layout and interface styling for WPF tools |
 | ![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white) | 2D/3D game development with C# scripting |
 | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | Pipeline tools, Unreal/Maya scripting, 2D prototyping |
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Indeed](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+
 
