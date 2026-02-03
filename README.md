@@ -3,7 +3,7 @@
 
 Hi! I'm Zanatta Gregory, a 3rd-year game development student at Objectif3D.  
 I specialize in gameplay programming, multiplayer systems, and production tool development.  
-I mainly work with C++, C#, Unreal Engine, and Unity, with a strong focus on gameplay architecture and workflow efficiency.
+I mainly work with C++, C#, Unreal Engine, and Unity, with a strong focus on gameplay architecture.
 
 ## Other information
 👩‍💻 I'm currently working on  
@@ -11,9 +11,6 @@ A long-term academic game project as part of my 3rd year at Objectif3D, focused 
 
 👯‍♂️ I'm open to collaborate on  
 Any interesting game dev or tool development project with clear goals and solid motivation behind it.
-
-🤔 I'm looking for help with  
-Advanced Unreal tooling, editor scripting, and production pipeline optimization.
 
 📫 How to reach me  
 Linkedin, github or my email adress
