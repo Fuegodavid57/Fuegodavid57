@@ -1,20 +1,20 @@
+# Zanatta Gregory — Gameplay Programmer & Tools Developer
 
-## About Me
+A 3rd-year game development student at Objectif3D specializing in gameplay programming, multiplayer systems, and production tool development. I work primarily with C++, C#, Unreal Engine, and Unity with a strong focus on clean gameplay architecture and tooling.
 
-Hi! I'm Zanatta Gregory, a 3rd-year game development student at Objectif3D.  
-I specialize in gameplay programming, multiplayer systems, and production tool development.  
-I mainly work with C++, C#, Unreal Engine, and Unity, with a strong focus on gameplay architecture.
+---
 
-## Other information
-👩‍💻 I'm currently working on  
-A long-term academic game project as part of my 3rd year at Objectif3D, focused on advanced Unreal Engine workflows and integrated production tools.
+## About me
+- Currently building a long-term academic game project focused on advanced Unreal Engine workflows and integrated production tools.
+- Interested in collaborating on gameplay systems, networking, and production tooling projects.
 
-👯‍♂️ I'm open to collaborate on  
-Any interesting game dev or tool development project with clear goals and solid motivation behind it.
+## Featured Projects
+- Project Name — short one-line description (Unreal Engine, C++/Blueprints)  
+  Link: PROJECT_LINK — highlights: gameplay replication, responsive camera/controls, editor tools.
+- Tooling Repo — small WPF/XAML tool for asset management (C# / WPF)  
+  Link: TOOL_LINK — highlights: importer UI, batch processing, plugin for the pipeline.
 
-📫 How to reach me  
-Linkedin, github or my email adress
-
+(Replace the placeholders above with project names, short descriptions, and links. Add screenshots or GIFs where helpful.)
 
 ## 🛠 Skills
 | Tech | Usage |
@@ -29,14 +29,23 @@ Linkedin, github or my email adress
 | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | Pipeline tools, Unreal/Maya scripting, 2D prototyping |
 | Multiplayer / Networking | Gameplay replication, client/server logic, online systems in Unreal, Unity, and SFML |
 
-## 🎮 Technical Focus
+## 🎮 Technical focus
 - Gameplay systems architecture
 - 3C design (Character / Camera / Controls)
 - Multiplayer & networked gameplay
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Indeed](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+- Portfolio: https://YOUR_PORTFOLIO_URL
+- LinkedIn: https://www.linkedin.com/in/YOUR_PROFILE
+- GitHub: https://github.com/Fuegodavid57
+- Twitter: https://twitter.com/YOUR_HANDLE
 
+## 📫 Contact
+Preferred: EMAIL: gregza@hotmail.fr  
+Open to collaboration and paid opportunities — please include a short description of the role or project.
 
+## Optional additions (recommended)
+- Screenshots / GIFs of gameplay and editor tools
+- Quickstart / How to run local demos (prereqs and steps)
+- License (if you want to open-source content)
+- Badges for build status or downloads (if applicable)
