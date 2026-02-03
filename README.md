@@ -1,11 +1,9 @@
 
-## 🚀 About Me
+## About Me
 
 Hi! I'm Zanatta Gregory, a 3rd-year game development student at Objectif3D.  
-I specialize in C++ and C# for gameplay systems, Unreal Engine & Unity, and pipeline/tool development with Python and WPF.  
-
-I'm passionate about building games, creating efficient tools, and learning advanced production workflows.  
-Currently focused on a long-term Unreal Engine project integrating multiple in-editor tools and complex gameplay systems. 
+I specialize in gameplay programming, multiplayer systems, and production tool development.  
+I mainly work with C++, C#, Unreal Engine, and Unity, with a strong focus on gameplay architecture and workflow efficiency.
 
 ## Other information
 👩‍💻 I'm currently working on  
@@ -33,6 +31,11 @@ Linkedin, github or my email adress
 | ![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white) | 2D/3D game development with C# scripting |
 | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | Pipeline tools, Unreal/Maya scripting, 2D prototyping |
 | Multiplayer / Networking | Gameplay replication, client/server logic, online systems in Unreal, Unity, and SFML |
+
+## 🎮 Technical Focus
+- Gameplay systems architecture
+- 3C design (Character / Camera / Controls)
+- Multiplayer & networked gameplay
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
