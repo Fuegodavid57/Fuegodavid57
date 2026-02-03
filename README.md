@@ -11,20 +11,14 @@ Currently focused on a long-term Unreal Engine project integrating multiple in-e
 👩‍💻 I'm currently working on  
 A long-term academic game project as part of my 3rd year at Objectif3D, focused on advanced Unreal Engine workflows and integrated production tools.
 
-🧠 I'm currently learning  
-Advanced Unreal Engine toolchains, editor tools, and production pipelines.
-
 👯‍♂️ I'm open to collaborate on  
 Any interesting game dev or tool development project with clear goals and solid motivation behind it.
 
 🤔 I'm looking for help with  
 Advanced Unreal tooling, editor scripting, and production pipeline optimization.
 
-💬 Ask me about  
-Game systems, Unreal Engine workflows, gameplay programming, and dev tools.
-
 📫 How to reach me  
-GitHub issues, project discussions, or LinkedIn.
+Linkedin, github or my email adress
 
 
 ## 🛠 Skills
@@ -38,6 +32,7 @@ GitHub issues, project discussions, or LinkedIn.
 | ![XAML](https://img.shields.io/badge/XAML-0C54C2?logo=windows&logoColor=white) | UI layout and interface styling for WPF tools |
 | ![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white) | 2D/3D game development with C# scripting |
 | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | Pipeline tools, Unreal/Maya scripting, 2D prototyping |
+| Multiplayer / Networking | Gameplay replication, client/server logic, online systems in Unreal, Unity, and SFML |
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
