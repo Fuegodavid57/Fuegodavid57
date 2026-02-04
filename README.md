@@ -1,11 +1,11 @@
 # Zanatta Gregory — Gameplay Programmer & Tools Developer
 
-A 3rd-year game development student at Objectif3D specializing in gameplay programming, multiplayer systems, and production tool development. I work primarily with C++, C#, Unreal Engine, and Unity with a strong focus on clean gameplay architecture and tooling.
+A 3rd-year game development student at Objectif3D specializing in gameplay programming, multiplayer systems, and production tool development. I work mainly with C++, C#, Unreal Engine, and Unity.
 
 ---
 
 ## About me
-- Currently building a long-term academic game project focused on advanced Unreal Engine workflows and integrated production tools.
+- Currently on a long-term academic game project made with advanced Unreal Engine.
 - Interested in collaborating on gameplay systems, networking, and production tooling projects.
 
 ## Featured Projects
