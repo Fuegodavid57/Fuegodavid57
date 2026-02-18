@@ -3,7 +3,7 @@
 A 3rd-year game development student at Objectif3D specializing in gameplay programming, multiplayer systems, and production tool development. I work mainly with C++, C#, Unreal Engine, and Unity.
 
 ## About me
-- Currently on a long-term academic game project made with advanced Unreal Engine.
+- Currently on a long-term academic game project made with Unreal Engine.
 - Interested in collaborating on gameplay systems, networking, and production tooling projects.
 
 ## 🛠 Skills
