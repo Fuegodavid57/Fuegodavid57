@@ -2,19 +2,9 @@
 
 A 3rd-year game development student at Objectif3D specializing in gameplay programming, multiplayer systems, and production tool development. I work mainly with C++, C#, Unreal Engine, and Unity.
 
----
-
 ## About me
 - Currently on a long-term academic game project made with advanced Unreal Engine.
 - Interested in collaborating on gameplay systems, networking, and production tooling projects.
-
-## Featured Projects
-- Project Name — short one-line description (Unreal Engine, C++/Blueprints)  
-  Link: PROJECT_LINK — highlights: gameplay replication, responsive camera/controls, editor tools.
-- Tooling Repo — small WPF/XAML tool for asset management (C# / WPF)  
-  Link: TOOL_LINK — highlights: importer UI, batch processing, plugin for the pipeline.
-
-(Replace the placeholders above with project names, short descriptions, and links. Add screenshots or GIFs where helpful.)
 
 ## 🛠 Skills
 | Tech | Usage |
@@ -35,17 +25,9 @@ A 3rd-year game development student at Objectif3D specializing in gameplay progr
 - Multiplayer & networked gameplay
 
 ## 🔗 Links
-- Portfolio: https://YOUR_PORTFOLIO_URL
-- LinkedIn: https://www.linkedin.com/in/YOUR_PROFILE
-- GitHub: https://github.com/Fuegodavid57
-- Twitter: https://twitter.com/YOUR_HANDLE
+- Portfolio:
+- LinkedIn: 
 
 ## 📫 Contact
 Preferred: EMAIL: gregza@hotmail.fr  
-Open to collaboration and paid opportunities — please include a short description of the role or project.
-
-## Optional additions (recommended)
-- Screenshots / GIFs of gameplay and editor tools
-- Quickstart / How to run local demos (prereqs and steps)
-- License (if you want to open-source content)
-- Badges for build status or downloads (if applicable)
+Open to collaboration
