@@ -26,7 +26,7 @@ A 3rd-year game development student at Objectif3D specializing in gameplay progr
 
 ## 🔗 Links
 - Portfolio:
-- LinkedIn: 
+- LinkedIn: https://www.linkedin.com/in/gregory-zanatta/
 
 ## 📫 Contact
 Preferred: EMAIL: gregza@hotmail.fr  
