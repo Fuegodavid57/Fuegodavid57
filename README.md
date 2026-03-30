@@ -25,7 +25,6 @@ A 3rd-year game development student at Objectif3D specializing in gameplay progr
 - Multiplayer & networked gameplay
 
 ## 🔗 Links
-- Portfolio:
 - LinkedIn: https://www.linkedin.com/in/gregory-zanatta/
 
 ## 📫 Contact
