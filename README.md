@@ -4,7 +4,7 @@ A 3rd-year game development student at Objectif3D specializing in gameplay progr
 
 ## About me
 - Currently on a long-term academic game project made with Unreal Engine.
-- Interested in collaborating on gameplay systems, networking, and production tooling projects.
+- Interested in collaborating on gameplay systems and networking.
 
 ## 🛠 Skills
 | Tech | Usage |
@@ -21,7 +21,7 @@ A 3rd-year game development student at Objectif3D specializing in gameplay progr
 
 ## 🎮 Technical focus
 - Gameplay systems architecture
-- 3C design (Character / Camera / Controls)
+- 3C (Character / Camera / Controls)
 - Multiplayer & networked gameplay
 
 ## 🔗 Links
