@@ -4,7 +4,7 @@ A 3rd-year game development student at Objectif3D specializing in gameplay progr
 
 ## About me
 - Currently on a long-term academic game project made with Unreal Engine.
-- Interested in collaborating on gameplay systems and networking.
+- Interested in any collaboration as long as the idea interest me 
 
 ## 🛠 Skills
 | Tech | Usage |
